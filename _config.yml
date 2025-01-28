@@ -1,0 +1,7 @@
+title: Bryan Straw 
+description: This is just a test to initialize my website
+theme: minima # or another supported Jekyll theme
+baseurl: "" # Leave empty for the root site
+url: "https://bstrawn94.github.io" # Your site's URL
+
+markdown: kramdown
